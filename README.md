@@ -1,33 +1,26 @@
 # ☕🎶🎮 Olá, eu sou o Filipe 
 
-Engenheiro de Dados em formação, apaixonado por transformar dados em valor para negócios. Aqui você irá encontrar alguns dos meus projetos desenvolvidos para área de **Dados** e **Big Data**
+Engenheiro de Dados em formação, apaixonado por transformar dados em valor para negócios. Aqui você irá encontrar alguns dos meus projetos desenvolvidos para área de **Dados**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) 
+
 
 ### Bancos de Dados & Data Warehouse  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white)  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) 
+
 
 ### Cloud & Ferramentas  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)  
 
 
 ### Big Data & Processamento  
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)  
 
 
 ---
