@@ -1,6 +1,6 @@
 # ☕🎶🎮 Olá, eu sou o Filipe 
 
-Engenheiro de Dados em formação, apaixonado por transformar dados em valor para negócios. Aqui você irá encontrar alguns dos meus projetos desenvolvidos para **engenharia de dados**, onde crio **pipelines ETL/ELT, modelagem de dados, cloud computing (AWS e Azure)** e algumas **APIs**. 
+Engenheiro de Dados em formação, apaixonado por transformar dados em valor para negócios. Aqui você irá encontrar alguns dos meus projetos desenvolvidos para área de **Dados** e **Big Data**
 
 ---
 
