@@ -6,7 +6,7 @@ Engenheiro de Dados em formação, apaixonado por transformar dados em valor par
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Linguagens & Frameworks  
+### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
