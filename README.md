@@ -1,6 +1,7 @@
 # ☕🎶🎮 Olá, eu sou o Filipe 
 
-Engenheiro de Dados em formação, apaixonado por transformar dados em valor para negócios. Aqui você irá encontrar alguns dos meus projetos desenvolvidos para área de **Dados**
+Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Engenharia de Dados. Sou apaixonado por tecnologia, principalmente toda área de dados. 
+Aqui você você irá encontrar alguns dos meus projetos desenvolvidos focado na construção de soluções de dados escaláveis.
 
 ---
 
