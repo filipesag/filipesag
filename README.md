@@ -1,6 +1,6 @@
 # ☕🎶🎮 Olá, eu sou o Filipe 
 
-Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Engenharia de Dados. Sou apaixonado por tecnologia, principalmente toda área de dados. 
+Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Engenharia de Dados. Sou apaixonado por tecnologia, principalmente toda área de dados. 
 Aqui você você irá encontrar alguns dos meus projetos desenvolvidos focado na construção de soluções de dados escaláveis.
 
 ---
