@@ -51,7 +51,7 @@ Pipeline de dados utilizando **Apache Spark e AWS** para analisar movimentaçõe
 - Armazenamento com **AWS S3**
 - Orquestração **Apache Airflow**
 - Carregamento dos dados no **Redshift**
-- Análises com o **Quicksight**
+- Análises com o **Power BI**
 
 ---
 
