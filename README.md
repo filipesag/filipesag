@@ -15,13 +15,13 @@ Aqui você você irá encontrar alguns dos meus projetos desenvolvidos focado na
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white)  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) 
 
 
-### Cloud & Ferramentas  
+### Cloud & Containers  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 
 
 
-### Big Data & Processamento  
+### Processamento & Orquestração  
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)  
 
 
