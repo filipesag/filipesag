@@ -62,10 +62,6 @@ API REST em **Spring Boot e PostgreSQL** para gestão de hortifrúti (produtos, 
 - Implantação na **AWS (EC2 + RDS)**  
 
 ---
-
-#### 📖 Todos os projetos foram desenvolvidos por mim para fins didáticos 
-
-
 ## 📫 Como me encontrar  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/filipe-aguiar-421269b5/)  
