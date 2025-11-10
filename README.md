@@ -68,5 +68,3 @@ API REST em **Spring Boot e PostgreSQL** para gestão de hortifrúti (produtos, 
 - 📧 Email: **filipesag@hotmail.com**  
 
 ---
-
-⭐ Se curtiu algum dos meus projetos, fica a vontade pra dar um **Star** ou me chamar pra trocar uma ideia!  
